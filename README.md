@@ -1,2 +1,2 @@
-# demopython
+# demo
 demo purpose
